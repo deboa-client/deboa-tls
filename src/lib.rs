@@ -1,2 +1,4 @@
 #[cfg(feature = "rust-tls")]
-pub mod rust;
+pub mod rustls;
+
+mod tests;
