@@ -48,7 +48,7 @@ tcp = []
 quic = []
 
 [dependencies]
-deboa = { version = "0.1.5-beta.3" }
+deboa = { version = "0.1.5-beta.5" }
 futures-io = { version = "0.3", optional = true, default-features = false }
 futures-rustls = { version = "0.26.0", optional = true, default-features = false }
 rustls = { version = "0.23.45", optional = true, default-features = false }
